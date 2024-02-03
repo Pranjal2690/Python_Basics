@@ -1,0 +1,9 @@
+string_1="Pranjal_Sinha"
+print(string_1)
+substr1=print(string_1[1:4])
+substr2=print(string_1[:4])
+substr3=print(string_1[5:])
+substr4=print(string_1[:])
+substr5=print(string_1[-12:-5])
+substr6=print(string_1[::-1])
+substr7=print(string_1[5:12].upper())
